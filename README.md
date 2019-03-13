@@ -4,9 +4,7 @@ Arduino and derivatives beginner tutorial based on the **ams TSL2591 ambient lig
 
 ### Wiring scheme
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/systembolaget/Microcontroller-tutorial-1a-Lux-meter/master/assets/1a%20Lux%20meter.png" title="Wiring scheme">
-</p>
+![](Assets/7a%20GitHub.png)
 
 ### BOM
 
