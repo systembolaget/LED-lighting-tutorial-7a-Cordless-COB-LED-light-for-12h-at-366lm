@@ -1,13 +1,14 @@
-# LED-lighting-tutorial-7a---Cordless-LED-luminaire
+# LED lighting tutorial - Cordless LED luminaire
 
-Arduino and derivatives beginner tutorial based on the **ams TSL2591 ambient light sensor**
+Portable balcony, terrace, garden or restaurant lantern set-up, based on a **11.1V rechargeable Li-Ion battery**
 
 ### Result
 
-![](Assets/7a%20GitHub.jpg)
+![](Assets/7a%20result.jpg)
 
 ### Schematic
 
+![](Assets/7a%20schematic.png)
 
 ### BOM
 
