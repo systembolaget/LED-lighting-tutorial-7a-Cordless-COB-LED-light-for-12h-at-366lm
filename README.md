@@ -2,9 +2,12 @@
 
 Arduino and derivatives beginner tutorial based on the **ams TSL2591 ambient light sensor**
 
-### Wiring scheme
+### Result
 
-![](Assets/7a%20GitHub.png)
+![](Assets/7a%20GitHub.jpg)
+
+### Schematic
+
 
 ### BOM
 
