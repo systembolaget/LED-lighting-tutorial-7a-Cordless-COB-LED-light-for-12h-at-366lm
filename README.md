@@ -2,9 +2,11 @@
 
 Get off the grid. Cut the cord. How to drive a high-CRI COB LED from a rechargeable 11,1V Li-Ion battery for 12 hours at full brightness
 
-### Result
+### Setup
 
-![](Assets/7a%20result.jpg)
+You can click the image to play the associated YouTube video
+
+[![Alt text](Assets/7a%20result.jpg)](https://www.youtube.com/watch?v=5tnEB3g0pcA)
 
 ### Schematic
 
